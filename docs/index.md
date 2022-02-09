@@ -2,7 +2,7 @@
 
 Portraits of Clara Schumann, Lithography by Andreas Staub, 1839
 
-[24 unique assets](https://adapools.org/nft?address=&policy=2e8e5e8e1d7837ccc509e30045f656f9e9ebed7ef5621085172d0e9a)
+[24 unique assets](https://adapools.org/nft?address=&policy=2e8e5e8e1d7837ccc509e30045f656f9e9ebed7ef5621085172d0e9a) available on [CNFT](https://cnft.io/marketplace?project=Clara)
 
 ![Clara Schumann](clara-animation.gif)
 
@@ -12,9 +12,3 @@ Portraits of Clara Schumann, Lithography by Andreas Staub, 1839
 [Policy ID 2e8e5e8e1d7837ccc509e30045f656f9e9ebed7ef5621085172d0e9a](https://pool.pm/policy/2e8e5e8e1d7837ccc509e30045f656f9e9ebed7ef5621085172d0e9a)
 
 [Impressum / Legal Information](https://philipphenkel.github.io/impressum/)
-
-<style>
-  .header {
-    display: none;
-  }
-</style>
